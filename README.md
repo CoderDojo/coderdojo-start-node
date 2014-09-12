@@ -162,6 +162,10 @@ var server = app.listen(3000, function() {
 </html>
 ````
 
+Now open your browser and navigate to
+
+```` http://localhost:3000 ````
+
 
 
 
