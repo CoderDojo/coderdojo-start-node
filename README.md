@@ -1,5 +1,7 @@
 # CoderDojo - Start Node
 
+[![Join the chat at https://gitter.im/CoderDojo/coderdojo-start-node](https://badges.gitter.im/CoderDojo/coderdojo-start-node.svg)](https://gitter.im/CoderDojo/coderdojo-start-node?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This is an introduction to server side programming in Node.js and was created for CoderDojo members.  
 
 ## Step 1 Install Node
